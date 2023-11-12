@@ -18,6 +18,10 @@
     height: 250px;
 }
 
+.height-150{
+    height: 150px;
+}
+
 /* HEADER */
 
 .bg-blue{
@@ -60,4 +64,10 @@
 
 .bg-white{
     background-color: white;
+}
+
+/* FOOTER */
+
+.bg-2blue{
+    background-color: rgba(58,84,109,255);
 }
