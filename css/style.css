@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* HEIGHT */
+
+.height-75{
+    height: 75px;
+}
+
+.height-500{
+    height: 500px;
+}
+
+.height-250{
+    height: 250px;
+}
+
+/* HEADER */
+
+.bg-blue{
+    background-color: rgba(44,62,80,255);
+}
+
+.bg-red{
+    background-color: red;
+}
+
+/* MAIN */
+
+.bg-green{
+    background-color: rgba(26,188,156,255);
+}
+
+.bg-darkred{
+    background-color: rgba(186,75,99,255);
+}
+
+.bg-lightblue{
+    background-color: rgba(30,164,182,255);
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.bg-darklightblue{
+    background-color: rgba(28,131,193,255);
+}
+
+.bg-darkblue{
+    background-color: rgba(14,56,181,255);
+}
+
+.bg-beige{
+    background-color: rgba(204,178,163,255);
+}
