@@ -4,7 +4,11 @@
     box-sizing: border-box;
 }
 
-/* HEIGHT */
+/* GENERAL */
+
+body{
+    font-family: 'Mulish', sans-serif;
+}
 
 .height-75{
     height: 75px;
