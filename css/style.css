@@ -185,20 +185,48 @@ header h3{
     color: white;
 }
 
+/* FOOTER */
 
-
-
-
-
-
-.bg-white{
-    background-color: white;
+footer .text h2{
+    font-size: 1.3rem;
 }
 
-/* FOOTER */
+footer p{
+    font-size: 1rem;
+}
+
+footer .content{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+span{
+    color: rgba(31,173,149,255);
+}
 
 .bg-2blue{
     background-color: rgba(58,84,109,255);
+}
+
+.icon{
+    margin: 0 10px;
+    margin-top: 15px;
+}
+
+.facebook,
+.google,
+.twitter,
+.icon{
+    border: 1px solid white;
+    width: 15%;
+    height: 40px;
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 1rem;
+}
+
+footer h3{
+    font-size: 0.6rem;
 }
 
 /* MEDIA-Q */
